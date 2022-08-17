@@ -1,6 +1,6 @@
 package pruebagit;
 
 public class Circulo {
-		private Double radio;
-	}
+		private Double radio = 25;
+public void X () {};
 }
